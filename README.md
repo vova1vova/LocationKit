@@ -1,4 +1,4 @@
-# LocationKit
+# Location-Kit
 
 Lightweight library for dealing with location APIs on Android (primarily Google Play Services)
 
@@ -81,3 +81,5 @@ protected void onStop() {
     ...
 }
 ```
+
+For example see "Sample" app
